@@ -1,0 +1,12 @@
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\chair\chair\bin\Debug\chair.exe.config
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\chair\chair\bin\Debug\chair.exe
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\chair\chair\bin\Debug\chair.pdb
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\chair\chair\bin\Debug\OpenTK.dll
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\chair\chair\bin\Debug\OpenTK.pdb
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\chair\chair\bin\Debug\OpenTK.xml
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\chair\chair\bin\Debug\OpenTK.dll.config
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\chair\chair\obj\Debug\chair.csprojAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\chair\chair\obj\Debug\chair.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\chair\chair\obj\Debug\chair.csproj.CopyComplete
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\chair\chair\obj\Debug\chair.exe
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\chair\chair\obj\Debug\chair.pdb
