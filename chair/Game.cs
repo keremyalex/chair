@@ -42,25 +42,9 @@ namespace chair
         {
             GL.LoadIdentity();
             GL.Clear(ClearBufferMask.ColorBufferBit);
-            GL.Color3(1.0,0.0,0.0);
-
-            //GL.Begin(PrimitiveType.Triangles);
-            //GL.Vertex2(1.0, 1.0);
-            //GL.Vertex2(49.0, 1.0);
-            //GL.Vertex2(25.0, 49.0);
-            //GL.End();
-
-            //GL.Begin(PrimitiveType.Quads);
-            //GL.Vertex2(30.0, 30.0);
-            //GL.Vertex2(-30.0, 30.0);
-            //GL.Vertex2(-30.0, -30.0);
-            //GL.Vertex2(30.0, -30.0);
-
-            //GL.End();
 
             GL.Begin(PrimitiveType.Quads);
             GL.Color3(0.54, 0.27, 0.07);
-            //GL.Color3(1.0, 0.0, 0.0);
             GL.Vertex2(-30.0, 50.0);     // +x, +y 
             GL.Vertex2(-40.0, 50.0);    // -x, +y
             GL.Vertex2(-40.0, -50.0);   // -x, -y
@@ -69,7 +53,6 @@ namespace chair
 
             GL.Begin(PrimitiveType.Quads);
             GL.Color3(0.54, 0.27, 0.07);
-            //GL.Color3(0.0, 1.0, 0.0);
             GL.Vertex2(30.0, 0.0);     // +x, +y 
             GL.Vertex2(-30.0, 0.0);    // -x, +y
             GL.Vertex2(-30.0, -10.0);   // -x, -y
@@ -78,29 +61,10 @@ namespace chair
 
             GL.Begin(PrimitiveType.Quads);
             GL.Color3(0.54, 0.27, 0.07);
-            //GL.Color3(0.0, 0.0, 1.0);
             GL.Vertex2(30.0, 0.0);     // +x, +y 
             GL.Vertex2(20.0, 0.0);    // -x, +y
             GL.Vertex2(20.0, -50.0);   // -x, -y
             GL.Vertex2(30.0, -50.0);    // +x, -y
-            GL.End();
-
-            GL.Begin(PrimitiveType.Quads);
-            GL.Color3(0.54, 0.27, 0.07);
-            //GL.Color3(0.0, 1.0, 1.0);
-            GL.Vertex2(60.0, 20.0);     // +x, +y 
-            GL.Vertex2(0.0, 20.0);    // -x, +y
-            GL.Vertex2(-30.0, 0.0);   // -x, -y
-            GL.Vertex2(30.0, 0.0);    // +x, -y
-            GL.End();
-
-            GL.Begin(PrimitiveType.Quads);
-            GL.Color3(0.54, 0.27, 0.07);
-            //GL.Color3(0.0, 1.0, 1.0);
-            GL.Vertex2(60.0, 20.0);     // +x, +y 
-            GL.Vertex2(30.0, 0.0);    // -x, +y
-            GL.Vertex2(30.0, -10.0);   // -x, -y
-            GL.Vertex2(60.0, 10.0);    // +x, -y
             GL.End();
 
             window.SwapBuffers();
